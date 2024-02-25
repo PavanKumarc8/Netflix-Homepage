@@ -1,0 +1,163 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #000;
+    color: #fff;
+    font-size: 16px;
+}
+
+li {
+    list-style: none;
+    text-decoration: none;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+}
+
+.logo img {
+    width: 100px;
+}
+
+.buttons {
+    padding: 10px 20px;
+    background-color: red;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.main {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.area {
+    text-align: center;
+}
+
+.search {
+    margin-top: 20px;
+}
+
+.box {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.try {
+    background-color: red;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.try:hover {
+    background-color: #FF0000;
+}
+
+.container1 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 80px 0;
+}
+
+.text, .image {
+    flex: 1;
+    padding: 0 50px;
+}
+
+.image img {
+    width: 100%;
+}
+
+.question {
+    text-align: center;
+    padding: 100px 0;
+}
+
+.quest {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.textbox {
+    padding: 10px;
+    background-color: #333;
+    border-radius: 5px;
+}
+
+.search1 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.box1 {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.try1 {
+    background-color: red;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.try1:hover {
+    background-color: #FF0000;
+}
+
+.footer {
+    background-color: #333;
+    padding: 50px 0;
+}
+
+.footertop {
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 30px;
+}
+
+.first ul, .second ul, .third ul, .fourth ul {
+    list-style-type: none;
+}
+
+ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.socialmedia {
+    display: flex;
+    justify-content: center;
+}
+
+.socialmedia i {
+    margin: 0 10px;
+    font-size: 24px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.socialmedia i:hover {
+    color: red;
+}
