@@ -34,9 +34,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 #### Contact Information
 For any inquiries or feedback, please contact the project owner:
-Email: pavankumar48903@gmail.com
-LinkedIn: Pavan Kumar Pattipu
-GitHub: PavanKumarc8
-Instagram: urs_mostly_liked_pavan
+- Email: pavankumar48903@gmail.com
+- LinkedIn: [Pavan Kumar Pattipu](https://www.linkedin.com/in/pavan-kumar-pattipu-800b92219)
+- GitHub: [PavanKumarc8](https://github.com/PavanKumarc8)
+- Instagram: [urs_mostly_liked_pavan](https://www.instagram.com/urs_mostly_liked_pavan/)
 
 ---
